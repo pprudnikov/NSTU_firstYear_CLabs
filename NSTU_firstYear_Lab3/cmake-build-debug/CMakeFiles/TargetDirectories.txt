@@ -1,0 +1,3 @@
+/Users/pprudnikov/CLionProjects/NSTU_firstYear_CLabs/NSTU_firstYear_Lab3/cmake-build-debug/CMakeFiles/aaaa.dir
+/Users/pprudnikov/CLionProjects/NSTU_firstYear_CLabs/NSTU_firstYear_Lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pprudnikov/CLionProjects/NSTU_firstYear_CLabs/NSTU_firstYear_Lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
